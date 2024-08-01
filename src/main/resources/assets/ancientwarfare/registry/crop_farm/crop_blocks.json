@@ -1,0 +1,29 @@
+{
+    "crops": [
+        {
+            "crop": "minecraft:reeds",
+            "type": "keep_bottom"
+        },
+        {
+            "crop": "minecraft:cactus",
+            "type": "keep_bottom"
+        },
+        {
+            "crop": "minecraft:nether_wart",
+            "type": "mature_defined",
+            "mature": {
+                "age": 3
+            }
+        },
+        {
+            "crop": "minecraft:red_mushroom",
+            "type": "break_only",
+            "item": "minecraft:red_mushroom"
+        },
+        {
+            "crop": "minecraft:brown_mushroom",
+            "type": "break_only",
+            "item": "minecraft:brown_mushroom"
+        }
+    ]
+}

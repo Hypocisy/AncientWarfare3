@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "priority": 1000,
+  "package": "com.github.kumoe.ancient_warfare.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "ancient_warfare.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}

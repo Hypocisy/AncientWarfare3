@@ -1,0 +1,107 @@
+[
+    {
+        "name": "LOGWOOD",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "logWood"
+        }
+    },
+    {
+        "name": "INGOTIRON",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        }
+    },
+    {
+        "name": "INGOTSTEEL",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "ingotSteel"
+        }
+    },
+    {
+        "name": "PLANKWOOD",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "plankWood"
+        }
+    },
+    {
+        "name": "STICKWOOD",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "stickWood"
+        }
+    },
+    {
+        "name": "INGOTGOLD",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "ingotGold"
+        }
+    },
+    {
+        "name": "COBBLESTONE",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "cobblestone"
+        }
+    },
+    {
+        "name": "STONE",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "stone"
+        }
+    },
+    {
+        "name": "GEMDIAMOND",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "gemDiamond"
+        }
+    },
+    {
+        "name": "DYEBLACK",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "dyeBlack"
+        }
+    },
+    {
+        "name": "DYEWHITE",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "dyeWhite"
+        }
+    },
+    {
+        "name": "DYERED",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "dyeRed"
+        }
+    },
+    {
+        "name": "DYEBLUE",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "dyeBlue"
+        }
+    },
+    {
+        "name": "DYEYELLOW",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "dyeYellow"
+        }
+    },
+    {
+        "name": "FEATHER",
+        "ingredient": {
+            "type": "forge:ore_dict",
+            "ore": "feather"
+        }
+    }
+]

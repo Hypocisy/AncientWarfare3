@@ -1,0 +1,21 @@
+{
+    "type": "ancientwarfare:research_recipe",
+    "research": "engineering",
+    "pattern": [
+        " S ",
+        "FFF",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "item": "#STRING"
+        },
+        "F": {
+            "item": "#FENCEWOOD"
+        }
+    },
+    "result": {
+        "item": "ancientwarfareautomation:worksite_upgrade",
+        "data": 0
+    }
+}

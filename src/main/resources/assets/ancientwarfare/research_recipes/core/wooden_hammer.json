@@ -1,0 +1,20 @@
+{
+    "type": "ancientwarfare:research_recipe",
+    "research": "engineering",
+    "pattern": [
+        "MSM",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "S": {
+            "item": "#STICKWOOD"
+        },
+        "M": {
+            "item": "#PLANKWOOD"
+        }
+    },
+    "result": {
+        "item": "ancientwarfare:wooden_hammer"
+    }
+}

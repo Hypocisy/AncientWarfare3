@@ -1,0 +1,22 @@
+{
+    "type": "ancientwarfare:research_recipe",
+    "research": "mathematics",
+    "pattern": [
+        " B ",
+        "III"
+    ],
+    "key": {
+        "B": {
+            "type": "ancientwarfare:item_nbt_relaxed",
+            "item": "minecraft:enchanted_book",
+            "nbt": "{StoredEnchantments:[{lvl:1s,id:35s}]}"
+        },
+        "I": {
+            "item": "#INGOTIRON"
+        }
+    },
+    "result": {
+        "item": "ancientwarfareautomation:worksite_upgrade",
+        "data": 4
+    }
+}

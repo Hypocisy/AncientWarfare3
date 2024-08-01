@@ -1,0 +1,21 @@
+{
+    "type": "ancientwarfare:research_recipe",
+    "research": "mathematics",
+    "pattern": [
+        "FFF",
+        "SSS",
+        "FFF"
+    ],
+    "key": {
+        "S": {
+            "item": "#STRING"
+        },
+        "F": {
+            "item": "#FENCEWOOD"
+        }
+    },
+    "result": {
+        "item": "ancientwarfareautomation:worksite_upgrade",
+        "data": 1
+    }
+}

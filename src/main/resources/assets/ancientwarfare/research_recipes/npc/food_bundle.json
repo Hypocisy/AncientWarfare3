@@ -1,0 +1,36 @@
+{
+    "type": "ancientwarfare:research_recipe",
+    "research": "leadership",
+    "pattern": [
+        "AP",
+        "BF",
+        "WC"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:cooked_porkchop"
+        },
+        "A": {
+            "item": "minecraft:apple"
+        },
+        "B": {
+            "item": "minecraft:bread"
+        },
+        "C": {
+            "item": "minecraft:cooked_chicken"
+        },
+        "F": {
+            "item": "minecraft:cooked_beef"
+        },
+        "W": {
+            "type": "minecraft:item_nbt",
+            "item": "minecraft:potion",
+            "nbt": {
+                "Potion": "minecraft:water"
+            }
+        }
+    },
+    "result": {
+        "item": "ancientwarfarenpc:food_bundle"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "ancientwarfare:research_recipe",
+    "research": "mass_production",
+    "pattern": [
+        "_C_",
+        "GWG",
+        "_I_"
+    ],
+    "key": {
+        "C": {
+            "item": "#CHEST"
+        },
+        "W": {
+            "item": "#WORKBENCH"
+        },
+        "G": {
+            "item": "#GEARWOOD"
+        },
+        "I": {
+            "item": "#INGOTIRON"
+        },
+        "_": {
+            "item": "#PLANKWOOD"
+        }
+    },
+    "result": {
+        "item": "ancientwarfareautomation:auto_crafting"
+    }
+}

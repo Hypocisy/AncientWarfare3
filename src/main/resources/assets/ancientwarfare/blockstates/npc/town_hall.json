@@ -1,0 +1,10 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "ancientwarfare:npc/town_hall",
+        "transform": "forge:default-block"
+    },
+    "variants": {
+        "normal": [{}]
+    }
+}

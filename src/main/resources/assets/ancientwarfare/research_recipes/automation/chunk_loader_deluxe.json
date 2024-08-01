@@ -1,0 +1,20 @@
+{
+    "type": "ancientwarfare:research_recipe",
+    "research": "machinery",
+    "pattern": [
+        "BBB",
+        "BEB",
+        "BBB"
+    ],
+    "key": {
+        "B": {
+            "item": "#OBSIDIAN"
+        },
+        "E": {
+            "item": "#ENDERPEARL"
+        }
+    },
+    "result": {
+        "item": "ancientwarfareautomation:chunk_loader_deluxe"
+    }
+}

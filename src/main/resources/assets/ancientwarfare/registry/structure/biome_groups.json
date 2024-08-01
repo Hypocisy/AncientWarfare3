@@ -1,0 +1,78 @@
+{
+    "biome_groups": {
+        "amazon": [
+        ],
+        "smingol": [
+        ],
+        "barbarian": [
+        ],
+        "xoltec": [
+        ],
+        "kong": [
+        ],
+        "pirate": [
+        ],
+        "brigand": [
+        ],
+        "coven": [
+        ],
+        "evil": [
+        ],
+        "giant": [
+        ],
+        "ishtari": [
+        ],
+        "icelord": [
+        ],
+        "lizardmen": [
+        ],
+        "minossian": [
+        ],
+        "empire": [
+        ],
+        "witchbane": [
+        ],
+        "buffloka": [
+        ],
+        "zimba": [
+        ],
+        "norska": [
+        ],
+        "nogg": [
+        ],
+        "sealsker": [
+        ],
+        "sarkonid": [
+        ],
+        "vyncan": [
+        ],
+        "wizardly": [
+        ],
+        "orc": [
+        ],
+        "undead": [
+        ],
+        "vampire": [
+        ],
+        "dwarf": [
+        ],
+        "elf": [
+        ],
+        "ent": [
+        ],
+        "gnome": [
+        ],
+        "hobbit": [
+        ],
+        "rakshasa": [
+        ],
+        "good": [
+        ],
+        "beaches generic": [
+        ],
+        "ruins generic": [
+        ],
+        "gog goblins": [
+        ]
+    }
+}
